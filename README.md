@@ -1,4 +1,4 @@
-# Degining-Implement-DWH
+# Designing-Implement-DWH
 
 The Sarte is having different stores in our city, where daily sales take place for various products. Higher management is facing an issue while decision making due to non availability of integrated data they can’t do study on their data as per their requirement. So they asked us to design a system which can help them quickly in decision making and provide Return on Investment (ROI).
 Business Requirment
